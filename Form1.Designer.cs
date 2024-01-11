@@ -1,4 +1,6 @@
-﻿namespace CalculadorApp
+﻿using System.Runtime.CompilerServices;
+
+namespace CalculadorApp
 {
     partial class Form1
     {
